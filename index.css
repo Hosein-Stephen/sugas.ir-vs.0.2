@@ -1,0 +1,20 @@
+a {
+    color: #428BCA;
+    text-decoration: none;
+}
+.bottomright {
+    position: absolute;
+    bottom: 75px;
+    right: 720px;
+  }
+
+  .clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #ff4747;
+    font-size: 60px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 7px;
+}
